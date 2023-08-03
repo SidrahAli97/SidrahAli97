@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @SidrahAli97
+- 👋 Hi, I’m Sidrah Ali, a very new junior data analyst
 - 👀 I’m interested in ... cats, autumn, reading, cooking, working out and floral design! 
-- 🌱 I’m currently learning ... R programming, SQL, Tablaeu
-- 💞️ I’m looking to collaborate on ... any beginner tips for an entry level data analyst! 
+- 🌱 I’m currently learning ... R programming, SQL, Tablaeu, and how to make a good steak. 
+- 💞️ I’m looking to collaborate on ... any beginner tips for an entry level data analyst and SQL/R coder. Send help my way!! 
 
 <!---
 SidrahAli97/SidrahAli97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
